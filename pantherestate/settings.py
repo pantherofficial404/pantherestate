@@ -147,8 +147,8 @@ MESSAGE_TAGS = {
 
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
-EMAIL_HOST_USER = "pantherofficial404@gmail.com"
-EMAIL_HOST_PASSWORD = "Maaa@143"
+EMAIL_HOST_USER = "demoEamil@gmail.com"
+EMAIL_HOST_PASSWORD = "Password123"
 EMAIL_USE_TLS = True
 
 
