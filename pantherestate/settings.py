@@ -150,3 +150,9 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = "pantherofficial404@gmail.com"
 EMAIL_HOST_PASSWORD = "Maaa@143"
 EMAIL_USE_TLS = True
+
+
+try:
+    from .local_settings import *
+except ImportError:
+    pass
