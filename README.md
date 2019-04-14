@@ -1,10 +1,9 @@
-9# pantherestate
-Panther Estate Web App
+# Panther Estate Web App
 
 ## Downloading
-gti clone https://github.com/pantherofficial404/pantherestate.git
-cd pantherestate
-pip install -r requirements.txt
+gti clone https://github.com/pantherofficial404/pantherestate.git \n
+cd pantherestate\n
+pip install -r requirements.txt\n
 
 ## Functionality 
 ### Login
