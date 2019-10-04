@@ -1,13 +1,14 @@
 # Panther Estate Web App
 
 ## Downloading
-gti clone https://github.com/pantherofficial404/pantherestate.git
+git clone https://github.com/pantherofficial404/pantherestate.git
 cd pantherestate
 pip install -r requirements.txt
 
 ## Functionality 
 ### Login
 ### Signup
+### Admin Panel Access
 ### Sending Mail
 ### Adding Realtors
 ### Adding Listing Of Houses
